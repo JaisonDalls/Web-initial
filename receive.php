@@ -13,7 +13,7 @@
 
     <br><br><br><br>
 
-    <h1>PHP PROGRAMMING TRAINING</h1><br><hr>
+    <h1>DATA PROCESSING PAGE</h1><br><hr>
     
     <!--search-->
     <div class="search">
